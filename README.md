@@ -17,3 +17,8 @@ Peer Verse is an app made using webRTC
 
 - Running peerjs server
   `peerjs --port 3001`
+
+## Running the app
+
+- Note : Peerjs should be running
+  `npm run devStart`
