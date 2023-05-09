@@ -1,6 +1,6 @@
-# peer-verse-webRTC
+# webRTC-trials
 
-Peer Verse is an app made using webRTC
+webRTC-trials is an app made using webRTC
 
 ## Dependencies
 
